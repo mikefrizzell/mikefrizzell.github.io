@@ -20,7 +20,7 @@ authors:
   michael:
     name: Michael Frizzell
     site: https://michaelfrizzell.com
-    avatar: /assets/images/avatar1.jpg
+    avatar: https://pbs.twimg.com/profile_images/1363993711621799936/wGyOctYO_400x400.png
     bio: "Hi, I am Michael Frizzell, a writer, photographer, and healthcare worker in the Missouri Ozarks."
     email: mpfrizzell@gmail.com
     twitter: https://twitter.com/frizz
@@ -32,8 +32,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: michael
+      avatar: https://pbs.twimg.com/profile_images/1363993711621799936/wGyOctYO_400x400.png
 
   # all pages
   - scope:
