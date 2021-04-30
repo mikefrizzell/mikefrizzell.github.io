@@ -1,45 +1,52 @@
-# Site
-name: "Rough Drafts"
-description: "Rough Drafts of my thoughts on the world"
-logo: "assets/images/logo.png"
-favicon: "assets/images/favicon.ico"
-email: "mpfrizzell@gmail.com"
-mailchimp-list: 
 
-include: ["_pages"]
-permalink: /:title/
+# Syntax highlighting
+markdown:            redcarpet
+highlighter:         pygments
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
+# Permalinks
+permalink:           /:title
+relative_permalinks: true
 
-authors:
-  michael:
-    name: Michael Frizzell
-    site: https://michaelfrizzell.com
-    avatar: https://pbs.twimg.com/profile_images/1363993711621799936/wGyOctYO_400x400.png
-    bio: "Hi, I am Michael Frizzell, a writer, photographer, and healthcare worker in the Missouri Ozarks."
-    email: mpfrizzell@gmail.com
-    twitter: https://twitter.com/frizz
+# Setup
+timezone:            your timezone # eg. Asia/Kathmandu
+locale:              en_us # eg. en_us
+name:				         Michael Frizzell
+title:               Rough Drafts
+tagline:             'thoughts on history, culture, and the world around us'
+description:         'description'
+url:                 https://mikefrizzell.github.io
+rss:                 /feed.xml
+baseurl:             '/'
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
+icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
-# Defaults
+author:
+  name:           	 Michael Frizzell
+  url:            	 https://mikefrizzell.github.io
+  facebook:          username
+  twitter:           Frizz
+  google_plus:       username
+  linkedin:          username
+  dribbble:          username
+  pinterest:         username
+  kiva:              username
+
+fb_admins:           your facebook profile id
+fb_appid:            your facebook app id
+
+# Server
+destination:      	 ./_site
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:             	 9001
+
 defaults:
-  # all posts
-  - scope:
+  -
+    scope:
       path: "_posts"
+      type: "posts"
     values:
-      layout: post
-      author: michael
-      avatar: https://pbs.twimg.com/profile_images/1363993711621799936/wGyOctYO_400x400.png
-
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-
-# Paginate
-paginate: 10
+      layout: "default"

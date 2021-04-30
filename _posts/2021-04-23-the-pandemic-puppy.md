@@ -1,9 +1,17 @@
 ---
 layout: post
-categories: []
-title: The pandemic puppy
-author: Michael
-image: "/assets/images/cocoa.jpg"
+title: "The pandemic puppy"
+date: 2021-04-23 00:00:00
+last_modified_at: 2021-04-24 11:50:00
+except: "The pandemic brought tragedy to our family, but in loss we found love"
+categories: life
+tags: dogs, pandemic
+image:
+	feature: cocoa.jpeg
+	topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
 
 ---
 Early in the pandemic tragedy struck our family. Not only were we sheltering place and trying to maintain our sanity, but our beloved Dachshund, Cocoa[1](#footnote-1), was very ill. Cocoa wasn’t elderly but at 11 he was no puppy, as much as he tried to deny it. He was suffering from back problems (like every other wiener dog) and from a congenital heart defect.
