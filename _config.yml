@@ -8,7 +8,7 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
+timezone:            America/Chicago # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         Michael Frizzell
 title:               Rough Drafts
