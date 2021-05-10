@@ -5,7 +5,6 @@ highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
-relative_permalinks: true
 
 # Setup
 locale:              en_us # eg. en_us
