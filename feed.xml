@@ -3,7 +3,7 @@
     <title>~% frizz</title>
     <link href="https://frizz.dev/feed.xml" rel="self" />
     <link href="https://frizz.dev" />
-    <updated>2024-02-07T19:15:00-06:00</updated>
+    <updated>2024-02-10T11:21:00-06:00</updated>
     <author>
         <name>Michael Frizzell</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://frizz.dev/the-idea-of-a-canon-doesnt-make-sense/"/>
         <id>https://frizz.dev/the-idea-of-a-canon-doesnt-make-sense/</id>
+            <category term="Religion"/>
+            <category term="History"/>
 
-        <updated>2024-02-07T19:03:45-06:00</updated>
+        <updated>2024-02-10T11:20:18-06:00</updated>
             <summary>
                 <![CDATA[
                     Star Wars fans have been known for years as obsessives who will&hellip;
@@ -48,8 +50,9 @@
         </author>
         <link href="https://frizz.dev/how-to-combine-columns-in-power-bi/"/>
         <id>https://frizz.dev/how-to-combine-columns-in-power-bi/</id>
+            <category term="Data Analysis"/>
 
-        <updated>2024-02-07T19:02:58-06:00</updated>
+        <updated>2024-02-10T11:21:00-06:00</updated>
             <summary>
                 <![CDATA[
                     I finally solved a problem I’ve had with Power BI over the&hellip;
