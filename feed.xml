@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>~% frizz</title>
+    <link href="https://frizz.dev/feed.xml" rel="self" />
+    <link href="https://frizz.dev" />
+    <updated>2024-02-07T19:15:00-06:00</updated>
+    <author>
+        <name>Michael Frizzell</name>
+    </author>
+    <id>https://frizz.dev</id>
+
+    <entry>
+        <title>The idea of a canon doesn&#x27;t make sense</title>
+        <author>
+            <name>Michael Frizzell</name>
+        </author>
+        <link href="https://frizz.dev/the-idea-of-a-canon-doesnt-make-sense/"/>
+        <id>https://frizz.dev/the-idea-of-a-canon-doesnt-make-sense/</id>
+
+        <updated>2024-02-07T19:03:45-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Star Wars fans have been known for years as obsessives who will&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post-content e-content">
+<p>Star Wars fans have been known for years as obsessives who will go to great lengths to explain every minutia in the galaxy far, far away. Every single piece of Darth Vader’s armor has a <a href="https://www.youtube.com/watch?v=FVzc20Bm8Xo">detailed background</a>, down even to the name of the medical center where his various operations were performed. There are timelines that trace history from the Big Bang to the a period decades after the battle of Endor. There are lists of what books and comics to be read and it what order. In other words, Star Wars is a lot like religion.</p>
+<p>It’s so much like religion, in fact, that Star Wars has some canonical, apocryphal, and deuterocanonical works. And every fan has their own list of what counts as canonical. Officially, everything created after the Disney purchase, plus the original and prequel trilogies, are considered canonical, but a good chunk of fans don’t adhere to that orthodoxy. I mean, who cares about the Captain Phasma novel? It’s unimportant to the overall story. Average fans probably don’t even care the Clone Wars or Rebels shows, let alone The Book of Boba Fett.</p>
+<p>The other day I saw a video on YouTube that asked a very important question: why doesn’t the original trilogy mention characters like Ahsoka or baby Yoda? If they were so important to the overall story, why weren’t they mentioned at all? Why did Obi Wan believe Luke to be the last Jedi when 114 of them had escaped the Emperor’s purge? Why did Yoda only say there was one other one? Are you telling me the great Yoda didn’t know about Ezra Bridger?</p>
+<p>Like a rational person, you’re probably thinking “Of course the original movies didn’t mention characters that hadn’t been created yet.” And you’d be right. The video rightly points out that Star Wars canon is insane and doesn’t make any sense. It’s full of contradictions, retcons, and outright mistakes. There’s no way to reconcile the entire canon because each part was produced thinking only of itself and what came before. That there was no planned overarching story is obvious from the beginning. First, Darth Vader killed Luke’s father, then he became his father. Luke was in love with Leia and vied for her affection before becoming her brother. If the first and second films can’t agree, how can two dozen stories somehow form a coherent vision?</p>
+<p>But this post isn’t really about Star Wars, it’s about Christianity. At the end of the day, that the Star Wars canon is contradictory and stupid doesn’t really matter. None of it affects my life except to take away a few bucks and some hours of my life. And if I decide to think of the Legends books as canonical, it’s not going to hurt anyone. But the Jewish and Christian canons, now that has real-world implications.</p>
+<p>A good number of Christians believe the Bible, as is commonly published today, contains the words of God that present a factual account of the past. I know not every Christian sect believes this, but some version of it is the most predominant view. I was raised a fundamentalist Baptist, so we held to the most extreme view. The Bible was historically and theologically accurate. God created the universe in seven literal days. Abraham, Isaac, and Jacob were people. A couple million Hebrews left Egypt during the Exodus and wandered in the desert for 40 years. Saul, David, and Solomon were actual kings. Jesus was a historical figure who was born to a virgin and he actually spoke every red letter in the Gospels. Even when they say different things. And don’t get me started on Revelation; I don’t have enough time to show you all of the charts.</p>
+<p>I bought in to this belief so hard I went to a Bible College and studied to become a missionary. I preached it to adults and taught it to children for years. But, like the Star Wars canon, the Evangelical understanding of the Bible doesn’t make any sense. There is no overarching story because they’re making it up as they go along. Multiple writers have differing beliefs and agendas and they aren’t all working towards a common goal. Some believe in multiple deities and others in monotheism. Some seem to follow El Elyon and others Yahweh. New Testament writers don’t seem to know any of the stories of the life of Jesus, especially of his divine birth.</p>
+<p>Adding to that, you have a couple thousand years of tradition added to the supposed perfect truth. Things that are not obvious from the text are considered orthodox. But what is orthodoxy? It’s something some guys made up a few hundred years after the fact. It’s the original cinematic universe that you can’t think too much about or it all starts falling apart.</p>
+<p>Unlike Star Wars, the Bible has a lot of relevance in our lives. People who believe the first day ever happened before there was a sun are making choices that affect the entire world. People that believe they have a god-given right to some land because a guy wrote it down in 500 BCE will do anything they have to maintain their power. People who believe in a deity that delights in burning millions of people forever are teaching your kids how to think.</p>
+<p>I honestly can’t say what I really believe in right now. I’m kind of afraid of outright saying I don’t believe in anything because it’s hard to overcome your programming, but whatever I believe, I know the idea of a canon of scripture with a coherent story and theology doesn’t make any sense.</p>
+</div>
+<div class="post-meta"> </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How to combine columns in Power BI</title>
+        <author>
+            <name>Michael Frizzell</name>
+        </author>
+        <link href="https://frizz.dev/how-to-combine-columns-in-power-bi/"/>
+        <id>https://frizz.dev/how-to-combine-columns-in-power-bi/</id>
+
+        <updated>2024-02-07T19:02:58-06:00</updated>
+            <summary>
+                <![CDATA[
+                    I finally solved a problem I’ve had with Power BI over the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I finally solved a problem I’ve had with Power BI over the past few months, so I thought I would put it in writing just in case anyone else is having the same issue. One of the my jobs is to monitor user productivity in my department, and I do that by using Microsoft Forms, Excel, and Power BI. Forms, for the users to input their numbers. <sup id="fnref:1" role="doc-noteref"></sup>Excel, to store the data. And Power BI to report out to my bosses.</p>
+<p>For one of the reports, we have two categories, A and B, and under each of those are multiple subcategories (1,2,3, etc). A user selects which category and subcategory they are entering data in for. The end result is a spreadsheet that has a column for A, a column for a values inputted for A, a column for B, and a column for all values inputted for B. This all works out just fine most of the time, but occasionally I would like for all subcategories under A and B to be in one column and their values next to it.</p>
+<p>Basically, I want the data to be stored in both ways, so I can visualize it in multiple ways. I understand this is a problem of my own making and that I’m trying to have my cake and eat it too, but that’s just life.</p>
+<p>Anyway, my solution to this self-inflicted wound is to create a new combined table (Modeling &gt; New table) and use the following DAX code:</p>
+<pre class="language-sql"><code>Combined Table = 
+UNION(
+   SELECTCOLUMNS(Table1, "Type", [category_a], "Number", [number_done_a]),
+   SELECTCOLUMNS(Table1, "Type", [category_b], "Number", [number_done_b])
+)</code></pre>
+<p>This allows me to create a table visualization that shows a list of all subcategories in A and B and their corresponding numbers.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>We are living in the post-apocalypse</title>
+        <author>
+            <name>Michael Frizzell</name>
+        </author>
+        <link href="https://frizz.dev/we-are-living-in-the-post-apocolypse/"/>
+        <id>https://frizz.dev/we-are-living-in-the-post-apocolypse/</id>
+            <category term="Life"/>
+
+        <updated>2024-02-07T19:15:00-06:00</updated>
+            <summary>
+                <![CDATA[
+                    On the night of the 12th of January 2007, I was violently&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post-content e-content">
+<p>On the night of the 12th of January 2007, I was violently awakened by the apocalypse. You might not remember it because, as far you can tell, the world did not end in 2007. But for me it did. For my family it did. And for hundreds of thousands of others in the Ozarks, it certainly did.</p>
+<p>The day began like any other. I woke up, took a shower, got dressed, and went into work. There was some small talk about the weather. Apparently, a big storm was moving into the area and the TV guy was calling for some ice. But the weather guys were always wrong, so I didn’t pay attention.</p>
+<p>By the afternoon, I knew I had messed up. What began as cold rain soon turned into freezing rain, covering everything with a sheet of ice. I went to the grocery store, like everyone else in the city, and tried to stock up on supplies. All of the milk and bread was gone because people apparently eat milk sandwiches in bad weather. On the way home, the door on my car wouldn’t close because of the ice. I had to hold onto it with all of my strength while driving and trying not to die. But I did make it home.</p>
+<p>That night we prepared for a bad winter storm. I brought in wood from outside in case we lost power. We turned the faucets on to a drip so the pipes wouldn’t freeze. And we sat and waited.</p>
+<p>It came as the evening became night. The freezing rain continued pouring. A tenth of an inch became a quarter, then quickly became half. All told, we got an inch and half of ice. Power lines sagged and utility poles fell. Trees groaned under the excessive weight. They eventually snapped and rained down to the world below.</p>
+<p>The branch of an old oak tree fell and hit our house. I’ve never been through an earthquake, but that’s what it felt like to me. The whole house shook violently, and the windows rattled. Surprisingly, there was no shattered glass but a good chunk of the corner of the roof was gone. The weatherhead was ripped from the house, plunging our world into complete darkness.</p>
+<p>In a way, we were lucky. We had a fireplace and enough wood to last a few days. We didn’t freeze. We had plenty of food. The roof was broken but we had a secure enough shelter. Plenty of other people have had it worse and did have it worse.</p>
+<p>I knew the world was coming to an end during the night. As the ice fell, electrical transformers became overwhelmed. One by one, street by street, neighborhood by neighborhood they exploded. Shards of light shot into the sky followed quickly by a short boom. In the calm nighttime hours, with no sounds of traffic or TV or gas furnaces, we could hear the grid being destroyed.</p>
+<p>In the morning, the extent of the damage became clear. It looked like the aftermath of a tornado. Trees and other debris covered the streets while vehicles and homes were frozen solid. Maybe more than a tornado, a war zone or the aftermath of an explosion. In Southwest Missouri we’ve been through our fair share of storms, but this was unlike anything we had ever witnessed. It really was the end of the world.</p>
+<p>But the subsequent days didn’t play out like you would have imagined. There were no large-scale riots or roving gangs robbing everything in sight. Sure, some people did steal generators but even with the police essentially out of service, life just went on as usual. Neighbors helped each other out. Civic groups and churches handed out food and water. Shelters opened for those who had nowhere to go. Groups of men walked the streets, chainsaws in hand, looking for people to help.</p>
+<p>The biggest crimes were those committed by businesses. Hotels tripled or quadrupled in price while grocers raised staple prices. Kerosene skyrocketed in value as people stood in lines for hours just to get a precious few gallons. In other words, capitalism operated like capitalism: maximum profit for themselves, maximum pain for the rest.</p>
+<p>Eventually, we ran out of firewood. Early one morning I walked out to the woodshed and grabbed the last few logs. I didn’t know what I was going to do after that, but for a few hours I would have heat. Later that day a guy I knew from church came by and loaned me a kerosene heater. That night, I vividly remember warming up a bottle for our six-month-old girl.</p>
+<p>We sat by candlelight and listened to the radio. Vince Jericho, a local right-wing talk show host, stayed on the air almost all day. He took calls from people in need and from those offering help. He was the only news we had for days, and it kept us sane during a time of local insanity. He was our lifeline to the outside world. I would never have expected a fascist to have a soul, but I guess you can’t look a gift horse in the mouth.</p>
+<p>For twenty-three days we were without power. Twenty-three days I couldn’t sleep in my own bed or shower in my own house. We had to rely on the kindness of our friends for hot water because we had an electric hot water heater.</p>
+<p>The day the world came back was glorious. Some guy from out of state, drawn to the area by the money disaster brings, hooked our house up to the grid and lights shone. The furnace roared to life and brought life-preserving heat. Water warmed up and I took the best lukewarm shower I have ever experienced. Our landline phone worked again and we could communicate with the outside world. Our cellphones, batteries long since dead, could now recharge.</p>
+<p>My story isn’t any more unique than yours. We’ve all faced crises, whether collective or individual. We’ve all suffered and had to do without. We’ve all felt as if the end of the world had come. And now we’re living in the post-apocalypse, in the aftermath of an earth-shattering event. But we made it through, mostly.</p>
+<p>Sure, we have some new scars, but we’ve seen the possibility of a better world. Not a Lord of the Flies world, where we fight in the absence of law. No, a world of solidarity and mutual aid. A world of cooperation. A world that isn’t a zero-sum game.</p>
+</div>
+<div class="post-meta"> </div>
+            ]]>
+        </content>
+    </entry>
+</feed>
