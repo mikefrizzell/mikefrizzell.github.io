@@ -3,12 +3,40 @@
     <title>~% frizz</title>
     <link href="https://frizz.dev/feed.xml" rel="self" />
     <link href="https://frizz.dev" />
-    <updated>2024-02-10T11:21:00-06:00</updated>
+    <updated>2024-03-16T21:23:25-05:00</updated>
     <author>
         <name>Michael Frizzell</name>
     </author>
     <id>https://frizz.dev</id>
 
+    <entry>
+        <title>The Content Machine</title>
+        <author>
+            <name>Michael Frizzell</name>
+        </author>
+        <link href="https://frizz.dev/the-content-machine/"/>
+        <id>https://frizz.dev/the-content-machine/</id>
+            <category term="Life"/>
+            <category term="Content"/>
+            <category term="AI"/>
+
+        <updated>2024-03-16T21:23:25-05:00</updated>
+            <summary>
+                <![CDATA[
+                    In the capitalist nightmare world we find ourselves currently living in, a world with only artificial scarcity, everyone is a content creator. Doesn’t matter who&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In the capitalist nightmare world we find ourselves currently living in, a world with only artificial scarcity, everyone is a content creator. Doesn’t matter who you are, what you do, or what your qualifications happen to be, you are a Creator. Some work in the medium of words on Twitter or Substack, others might post photos to Insta, or videos to YouTube, but without Fail, we all have to feed the Content Machine.</p>
+<p>What is the Content Machine? It’s hard to explain, but it’s sort of a snake that surrounds the world, eating its own tail. It is a system but also a state of mind. It’s centralized but also distributed. It’s a virus that has snuck its way into the human species and infected everything.</p>
+<p>Have you ever been watching your child play, heard them say something funny, then rushed to Facebook to tell everyone? You’ve been infected. Have opinions about Palestine that you have to get off your chest? Reddit is there for you. Does your hair look good today? After a few minutes of tuning you can throw your plastic face on Instagram.</p>
+<p>And what do you get in return for turning all of your human experiences into Content? Some random person clicks a pixelated heart and you get a millisecond of serotonin. Multiple that by a couple hundred and you have literally seconds of joy a day.</p>
+<p>As it stands, all we have left to do is feed the content machine. Every sunrise, school play, and Christmas morning are just fuel for the machine. Banal human interactions become fodder for melodramatic Tik Tok videos. Everything exists to serve the content machine. You only have one job now: to consume and create content.</p>
+<p>But giving our lives in service to the content machine isn’t enough. After we’re done selling off everything we hold dear, the machine chews it up, digests it, and shits it out through AI. Your content becomes a part of someone else’s content. And the cycle repeats into a culturally stagnant future. And in that distant time, when humans have gone extinct, content will still be cycling through the machine, a simulacra of a simulation of a copy. World without end.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The idea of a canon doesn&#x27;t make sense</title>
         <author>
@@ -22,7 +50,7 @@
         <updated>2024-02-10T11:20:18-06:00</updated>
             <summary>
                 <![CDATA[
-                    Star Wars fans have been known for years as obsessives who will&hellip;
+                    Star Wars fans have been known for years as obsessives who will go to great lengths to explain every minutia in the galaxy far, far&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -55,7 +83,7 @@
         <updated>2024-02-10T11:21:00-06:00</updated>
             <summary>
                 <![CDATA[
-                    I finally solved a problem I’ve had with Power BI over the&hellip;
+                    I finally solved a problem I’ve had with Power BI over the past few months, so I thought I would put it in writing just&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -85,7 +113,7 @@ UNION(
         <updated>2024-02-07T19:15:00-06:00</updated>
             <summary>
                 <![CDATA[
-                    On the night of the 12th of January 2007, I was violently&hellip;
+                    On the night of the 12th of January 2007, I was violently awakened by the apocalypse. You might not remember it because, as far you&hellip;
                 ]]>
             </summary>
         <content type="html">
